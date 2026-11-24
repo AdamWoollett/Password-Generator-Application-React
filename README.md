@@ -17,21 +17,21 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 
 ## Project Structure
 ```
-Password-Generator-Application-React/<br>
-└─public/<br>
-├    ├─ favicon.svg<br>
-├    └─ icons.svg<br>
-└─src/<br>                                      # Components used to build the page and make it functional.
-├    ├─ App.css<br>
-├    ├─ App.jsx<br>
-├    ├─ PasswordGeneratorWithCustomHook.jsx<br>
-├    ├─ index.css<br>
-├    ├─ main.jsx<br>
-├    └─ usePasswordGenerator.jsx<br>
-├─ README.md<br>
-├─ eslint.config.js<br>
-├─ index.html<br>
-├─ package-lock.json<br>
-├─ package.json<br>
-└─ vite.config.js<br>
+Password-Generator-Application-React/
+└─public/
+├    ├─ favicon.svg
+├    └─ icons.svg
+└─src/                                      # Components used to build the page and make it functional.
+├    ├─ App.css
+├    ├─ App.jsx
+├    ├─ PasswordGeneratorWithCustomHook.jsx
+├    ├─ index.css
+├    ├─ main.jsx
+├    └─ usePasswordGenerator.jsx
+├─ README.md
+├─ eslint.config.js
+├─ index.html
+├─ package-lock.json
+├─ package.json
+└─ vite.config.js
 ```
