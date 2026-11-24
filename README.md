@@ -21,13 +21,13 @@ Password-Generator-Application-React/
 └─public/
 ├    ├─ favicon.svg
 ├    └─ icons.svg
-└─src/                                      # Components used to build the page and make it functional.
+└─src/                                        # Components used to build the page and make it functional.
 ├    ├─ App.css
 ├    ├─ App.jsx
-├    ├─ PasswordGeneratorWithCustomHook.jsx
+├    ├─ PasswordGeneratorWithCustomHook.jsx   # React component that contains page HTML, calls the password generation component and contains copying to clipboard functionality.
 ├    ├─ index.css
 ├    ├─ main.jsx
-├    └─ usePasswordGenerator.jsx
+├    └─ usePasswordGenerator.jsx              # Password generation component that contains the logic for generating the random password.
 ├─ README.md
 ├─ eslint.config.js
 ├─ index.html
