@@ -16,20 +16,22 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 - Tailwind CSS
 
 ## Project Structure
+```
 Password-Generator-Application-React/<br>
 └─public/<br>
-&emsp;&emsp;├─ favicon.svg<br>
-&emsp;&emsp;└─ icons.svg<br>
-└─src/<br>
-&emsp;&emsp;├─ App.css<br>
-&emsp;&emsp;├─ App.jsx<br>
-&emsp;&emsp;├─ PasswordGeneratorWithCustomHook.jsx<br>
-&emsp;&emsp;├─ index.css<br>
-&emsp;&emsp;├─ main.jsx<br>
-&emsp;&emsp;└─ usePasswordGenerator.jsx<br>
+├    ├─ favicon.svg<br>
+├    └─ icons.svg<br>
+└─src/<br>                                      # Components used to build the page and make it functional.
+├    ├─ App.css<br>
+├    ├─ App.jsx<br>
+├    ├─ PasswordGeneratorWithCustomHook.jsx<br>
+├    ├─ index.css<br>
+├    ├─ main.jsx<br>
+├    └─ usePasswordGenerator.jsx<br>
 ├─ README.md<br>
 ├─ eslint.config.js<br>
 ├─ index.html<br>
 ├─ package-lock.json<br>
 ├─ package.json<br>
 └─ vite.config.js<br>
+```
